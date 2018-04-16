@@ -1,0 +1,27 @@
+13,12600 checking for monitored file `/etc/netgroup': No such file or directory
+97,12600 monitored file `/etc/passwd` was written to
+98,"12600 monitored file `/etc/passwd` was moved into place, adding watch"
+99,12600 monitoring file `/etc/passwd` (7)
+100,12600 monitoring directory `/etc` (2)
+101,12600 monitoring file `/etc/group` (3)
+102,12600 monitoring directory `/etc` (2)
+103,12600 monitoring file `/etc/passwd` (7)
+104,12600 monitoring directory `/etc` (2)
+105,12600 monitoring file `/etc/group` (3)
+106,12600 monitoring directory `/etc` (2)
+3119,12600 monitored file `/etc/resolv.conf` was written to
+3121,12600 monitoring file `/etc/resolv.conf` (5)
+3122,12600 monitoring directory `/etc` (2)
+3216,27992 monitoring file `/etc/passwd` (1)
+3217,27992 monitoring directory `/etc` (2)
+3218,27992 monitoring file `/etc/group` (3)
+3219,27992 monitoring directory `/etc` (2)
+3220,27992 monitoring file `/etc/hosts` (4)
+3221,27992 monitoring directory `/etc` (2)
+3222,27992 monitoring file `/etc/resolv.conf` (5)
+3223,27992 monitoring directory `/etc` (2)
+3224,27992 monitoring file `/etc/services` (6)
+3225,27992 monitoring directory `/etc` (2)
+3226,27992 disabled inotify-based monitoring for file `/etc/netgroup': No such file or directory
+3227,27992 stat failed for file `/etc/netgroup'; will try again later: No such file or directory
+3256,27992 checking for monitored file `/etc/netgroup': No such file or directory

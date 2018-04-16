@@ -1,0 +1,10 @@
+3110,DHCPREQUEST on eno1 to 255.255.255.255 port 67 (xid=0x6c54bc8d)
+3114,DHCPREQUEST on eno1 to 255.255.255.255 port 67 (xid=0x6c54bc8d)
+3115,DHCPACK from 10.4.200.83 (xid=0x6c54bc8d)
+3123,bound to 10.4.216.2 -- renewal in 17783 seconds.
+4057,DHCPREQUEST on eno1 to 10.4.200.83 port 67 (xid=0x6c54bc8d)
+4058,DHCPACK from 10.4.200.83 (xid=0x6c54bc8d)
+4059,bound to 10.4.216.2 -- renewal in 19218 seconds.
+5455,DHCPREQUEST on eno1 to 10.4.200.83 port 67 (xid=0x6c54bc8d)
+5456,DHCPACK from 10.4.200.83 (xid=0x6c54bc8d)
+5457,bound to 10.4.216.2 -- renewal in 16440 seconds.

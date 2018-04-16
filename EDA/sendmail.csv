@@ -1,0 +1,7 @@
+14,"u2MFjEcU012727: from=fail2ban@localhost, size=223, class=0, nrcpts=1, msgid=<201603221545.u2MFjEcU012727@r001.pvt.bridges.psc.edu>, relay=root@localhost"
+15,"u2MFjEcU012727: to=root@localhost, delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=30223, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+16,starting daemon (8.14.7): SMTP+queueing@01:00:00
+26,u2MFjFPg012791: SYSERR(root): Switch map aliases: unknown member map aliases.nisplus
+27,"u2MFjFPg012791: from=<fail2ban@r001.pvt.bridges.psc.edu>, size=476, class=0, nrcpts=1, msgid=<201603221545.u2MFjEcU012727@r001.pvt.bridges.psc.edu>, proto=ESMTP, daemon=MTA-v6, relay=localhost [127.0.0.1]"
+29,u2MFjFPg012791: SYSERR(root): Switch map aliases: unknown member map aliases.nisplus
+34,"u2MFjFPg012791: to=<root@r001.pvt.bridges.psc.edu>, delay=00:00:01, xdelay=00:00:01, mailer=local, pri=30694, dsn=2.0.0, stat=Sent"

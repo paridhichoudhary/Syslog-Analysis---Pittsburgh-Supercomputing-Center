@@ -1,0 +1,1 @@
+96,change user 'slurm' shell from '/bin/nologin' to '/sbin/nologin'

@@ -1,0 +1,8 @@
+3095,Shutting down interface eno1:  [  OK  ]
+3097,Shutting down interface ib0:  [  OK  ]
+3098,Shutting down loopback interface:  [  OK  ]
+3100,Bringing up loopback interface:  [  OK  ]
+3101,Bringing up interface eno1:
+3124,Determining IP information for eno1... done.
+3134,[  OK  ]
+3147,Bringing up interface ib0:  [  OK  ]

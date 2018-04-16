@@ -1,0 +1,12 @@
+3195,Anacron started on 2016-03-22
+3198,Will run job `cron.daily' in 21 min.
+3199,Will run job `cron.weekly' in 41 min.
+3200,Will run job `cron.monthly' in 61 min.
+3201,Jobs will be executed sequentially
+3270,Job `cron.daily' started
+3280,Job `cron.daily' terminated
+3315,Job `cron.weekly' started
+3316,Job `cron.weekly' terminated
+3371,Job `cron.monthly' started
+3372,Job `cron.monthly' terminated
+3373,Normal exit (3 jobs run)

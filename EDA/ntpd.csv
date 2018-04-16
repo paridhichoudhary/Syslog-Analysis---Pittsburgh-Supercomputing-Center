@@ -1,0 +1,15 @@
+3103,"Deleting interface #6 eno1, fe80::5a20:b1ff:fe0a:af40#123, interface stats: received=0, sent=0, dropped=0, active_time=258 secs"
+3104,"Deleting interface #5 ib0, fe80::211:7501:167:a45e#123, interface stats: received=0, sent=0, dropped=0, active_time=258 secs"
+3105,"Deleting interface #3 eno1, 10.4.216.2#123, interface stats: received=8, sent=9, dropped=0, active_time=258 secs"
+3106,10.4.200.71 interface 10.4.216.2 -> (none)
+3107,10.4.200.70 interface 10.4.216.2 -> (none)
+3112,Listen normally on 7 eno1 fe80::5a20:b1ff:fe0a:af40 UDP 123
+3113,new interface(s) found: waking up resolver
+3139,Listen normally on 8 eno1 10.4.216.2 UDP 123
+3140,new interface(s) found: waking up resolver
+3146,0.0.0.0 c628 08 no_sys_peer
+3151,Listen normally on 9 ib0 10.4.116.2 UDP 123
+3152,Listen normally on 10 ib0 fe80::211:7501:167:a45e UDP 123
+3153,new interface(s) found: waking up resolver
+3177,0.0.0.0 c612 02 freq_set kernel 17.317 PPM
+3178,0.0.0.0 c615 05 clock_sync

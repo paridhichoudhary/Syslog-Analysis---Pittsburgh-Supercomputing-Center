@@ -1,0 +1,23 @@
+3091,Withdrawing address record for 10.4.216.2 on eno1.
+3092,Leaving mDNS multicast group on interface eno1.IPv4 with address 10.4.216.2.
+3093,Interface eno1.IPv4 no longer relevant for mDNS.
+3094,Withdrawing address record for fe80::5a20:b1ff:fe0a:af40 on eno1.
+3096,Withdrawing address record for fe80::211:7501:167:a45e on ib0.
+3111,Registering new address record for fe80::5a20:b1ff:fe0a:af40 on eno1.*.
+3116,Joining mDNS multicast group on interface eno1.IPv4 with address 10.4.216.2.
+3117,New relevant interface eno1.IPv4 for mDNS.
+3118,Registering new address record for 10.4.216.2 on eno1.IPv4.
+3125,Withdrawing workstation service for ib0.
+3126,Withdrawing workstation service for eno2.
+3127,Withdrawing address record for fe80::5a20:b1ff:fe0a:af40 on eno1.
+3128,Withdrawing workstation service for eno1.
+3129,Withdrawing workstation service for lo.
+3130,"Host name conflict, retrying with linux-2"
+3131,Registering new address record for fe80::5a20:b1ff:fe0a:af40 on eno1.*.
+3132,Registering new address record for 10.4.216.2 on eno1.IPv4.
+3133,Registering HINFO record with values 'X86_64'/'LINUX'.
+3141,Server startup complete. Host name is linux-2.local. Local service cookie is 843496960.
+3142,Registering new address record for fe80::211:7501:167:a45e on ib0.*.
+3143,Joining mDNS multicast group on interface ib0.IPv4 with address 10.4.116.2.
+3144,New relevant interface ib0.IPv4 for mDNS.
+3145,Registering new address record for 10.4.116.2 on ib0.IPv4.

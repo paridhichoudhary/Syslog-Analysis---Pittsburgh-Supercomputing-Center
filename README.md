@@ -17,13 +17,17 @@ The dataset created is imbalanced as expected.
 
 4) ROCAnalysis.ipynb contains multiple scenarios with different ratios of positive and negative samples and ROC curves obtained in each.
 Training on 100 Positive and 100 negative samples
+
 ![100 Positive and 100 Negative](/ROC-bridges-Images/case0.png)
 
 Training on 120 Positive and 120 Negative samples
+
 ![120 Positive and 120 Negative](/ROC-bridges-Images/case2.png)
 
 Training on 120 Positive and 120 Negative samples and testing is done on samples from logs of a different date
-![60 Positive 60 Negative Test on Different Date](case3.png)
+
+![60 Positive 60 Negative Test on Different Date](/ROC-bridges-Images/case3.png)
 
 Training on 120 Positive and 120 Negative samples and testing is done on samples from logs of same date but different node
-![60 Positive 60 Negative Test on Same Date Different Node](ROC-bridges-Images/case41.png)
+
+![60 Positive 60 Negative Test on Same Date Different Node](/ROC-bridges-Images/case41.png)

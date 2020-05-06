@@ -2,8 +2,11 @@
 Anomaly Detection of System Logs at Pittsburgh Supercomputing Center. 
 
 This work was published in a conference - Machine Learning for Computing Sciences, Tempe, Arizona. The research can be accessed here:
+
 Paper link: https://dl.acm.org/ft_gateway.cfm?id=3217873&type=pdf
+
 ACM Citation link: https://dl.acm.org/citation.cfm?id=3217873
+
 Conference Link: https://mlcsworkshop.weebly.com/previous-editions-2018.html
 
 The contents of this repository are as follows:
